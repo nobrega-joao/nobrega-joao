@@ -15,7 +15,7 @@
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/386940116406370306/938786012644130846/Webp.net-gifmaker.gif">
+  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/DLD4V03/ezgif-com-gif-maker.gif">
 </div>
   
 ##
