@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Nobrega
 
 - 🔭 Hoje trabalho como assistente de Analista de Sistemas
-- 🌱 Estudando HTML e CSS
+- 🌱 Estudando linguagens como Python, HTML, CSS e Js
 - 👯 Estudando para me tornar um programador Front-end
 - 📫 Contate-me no email: joao_nobrega02@hotmail.com
 
@@ -15,6 +15,7 @@
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/DLD4V03/ezgif-com-gif-maker.gif">
 </div>
   
