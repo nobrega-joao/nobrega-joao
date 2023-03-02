@@ -1,8 +1,8 @@
 ## Olá! Eu sou o João Nobrega
 
-- 🔭 Hoje trabalho como assistente de Analista de Suporte
-- 🌱 Estudando linguagens como Python, HTML, CSS e Js
-- 👯 Estudando para me tornar um Desenvolvedor
+<!-- - 🔭 Hoje trabalho como assistente de Analista de Suporte -->
+- 🌱 Estudando Front-End
+- 👯 Estudando para me tornar um Desenvolvedor Web
 - 📫 Contate-me no email: joao_nobrega02@hotmail.com
 
 <div align="center">
